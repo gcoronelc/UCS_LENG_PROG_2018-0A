@@ -1,8 +1,7 @@
 Promedio de un alumno.
 Son 4 notas.
 Se elimina la menor nota.
-Para aprobar se requiere
-un promedio mayor o igual 15.
+Para aprobar se requiere un promedio mayor o igual 15.
 
 
 Servicio 1: Obtener la menor nota
@@ -18,7 +17,27 @@ Salida: nota menor
 
 
 
+Servicio 2: Obtener el promedio 
+============================================
+
+Nombre del servicio: calcularPromedio
+Entrada de datos:
+	1.- nota1
+	2.- nota2
+	3.- nota3
+	4.- nota4
+Salida: promedio
 
 
-	
+
+Servicio 3: Obtener condición
+============================================
+
+Nombre del servicio: obtenerCondicion
+Entrada de datos: promedio
+Salida: Aprobado / Desaprobado
+
+
+
+
 

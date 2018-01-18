@@ -14,6 +14,8 @@ public class Prueba01 {
     // Proceso
     PromedioService promedioService = new PromedioService();
     int notaMenor = promedioService.notaMenor(nota1, nota2, nota3, nota4);
+    int promedio = promedioService.calcularPromedio(nota1, nota2, nota3, nota4);
+    String condicion = promedioService.obtenerCondicion(promedio);
     
     // Reporte
     System.out.println("DATOS");
@@ -23,6 +25,8 @@ public class Prueba01 {
     System.out.println("Nota4: " + nota4);
     System.out.println("RESULTADO");
     System.out.println("Nota menor: " + notaMenor);
+    System.out.println("Promedio: " + promedio);
+    System.out.println("Condición: " + condicion);
     
   }
   

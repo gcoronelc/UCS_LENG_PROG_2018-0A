@@ -1,0 +1,4 @@
+Calcular los valores de una venta:
+- Importe
+- Impuesto
+- Total
