@@ -1,15 +1,17 @@
-1.- lenguaje c sharp
-    
+1.- lenguaje C sharp
+    Laze 
+	
 
 2.- Java Script
-    
+    CHAPOÑAN OSORIO,JHOAN EMILIO
 
 3.- PHP
     Zavala Diaz
-
+    Jorge De La Cruz
 	
 4.- VB .NET
-    
+    Navarro 
+	Diaz
   
 5.- Power Builder
     
@@ -18,7 +20,7 @@
 
 
 7.- Green Foot
-
+	Salazar
     
 	 
 
