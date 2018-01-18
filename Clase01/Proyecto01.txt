@@ -1,0 +1,5 @@
+Promedio de un alumno.
+Son 4 notas.
+Se elimina la menor nota.
+Para aprobar se requiere
+un promedio mayor o igual 15.
