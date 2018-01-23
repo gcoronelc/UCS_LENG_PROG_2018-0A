@@ -12,6 +12,12 @@ B.- calcImporte
 C.- calcImpuesto
 
 
+Datos de Entrada
+-------------------------------------
+- precio
+- cantidad
+
+
 
 
 
