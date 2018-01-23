@@ -1,0 +1,11 @@
+Desarrollar una aplicación Java
+que permita encontrar el MCM
+y el MCD de dos números enteros.
+
+
+
+
+
+
+
+

@@ -1,10 +1,11 @@
 1.- lenguaje C sharp
     Laze 
-	
+	Barreda
 
 2.- Java Script
     CHAPOÑAN OSORIO,JHOAN EMILIO
-
+	Flores
+	
 3.- PHP
     Zavala Diaz
     Jorge De La Cruz
@@ -15,7 +16,7 @@
   
 5.- Power Builder
     
-	 
+ 
 6.- Clojure
 
 

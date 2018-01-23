@@ -1,0 +1,12 @@
+Desarrollar una aplicación Java
+que permita averiguar si un número
+en multiplo 3, multiplo de 5 
+o multiplo 3 y 5.
+
+
+
+
+
+
+
+
