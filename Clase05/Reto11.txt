@@ -1,0 +1,22 @@
+Desarrollar un programa que calcula el número de años en 
+el que se duplica una población que aumenta con una
+tasa de crecimiento positiva y fija anualmente.
+
+Por ejemplo, si la población inicial es de 1000 habitantes,
+y su tasa de crecicmiento anual es de 10%, el objetivo es 
+encontrar en cuantos años la población será el doble o mas.
+
+  Año     Habitantes      
+-------------------------
+   0       1000
+   1       1100
+   2       1210
+   3       1331
+   4       1464
+   5       1610
+   6       1771
+   7       1948
+   9       2142
+-------------------------   
+
+La respuesta es, 9 años.

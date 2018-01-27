@@ -40,7 +40,7 @@
 - Interfaces Funcionales: http://gcoronelc.blogspot.pe/2015/03/java-8-functional-interfaces.html
 - Seminario CS: http://gcoronelc.blogspot.pe/2013/06/resumen-seminario-java-cliente-servidor.html
 - BMP: http://www.club-bpm.com/
-
+- Ejercicios: http://ocw.upm.es/lenguajes-y-sistemas-informaticos/programacion-en-java-i/Contenidos/Ejercicios/
 
 
 ## VIDEOS

@@ -1,0 +1,79 @@
+Proyecto 01
+---------------------------------------------------------
+Promedio de un alumno.
+Son 4 notas.
+Se elimina la menor nota.
+Para aprobar se requiere un promedio mayor o igual 15.
+
+
+Reto 01
+---------------------------------------------------------
+Desarrollar el proyecto que se encuentra en la siguiente pagina:
+http://gcoronelc.blogspot.pe/2016/11/prog-pensando-en-servicios-parte-2.html
+
+Reto 02
+---------------------------------------------------------
+Promedio de un alumno.
+Son 6 notas.
+Se elimina las dos menores notas.
+Para aprobar se requiere un promedio mayor o igual 15.
+
+
+Reto 03
+---------------------------------------------------------
+Calcular los valores de una venta:
+  - Importe
+  - Impuesto
+  - Total
+
+  
+Reto 04
+---------------------------------------------------------
+Desarrollar una aplicación Java que permita averiguar si 
+un número en multiplo 3, multiplo de 5  o multiplo 3 y 5.
+
+
+Reto 05
+---------------------------------------------------------
+Desarrollar una aplicación Java que permita encontrar 
+el MCM y el MCD de dos números enteros.
+
+
+Reto 06
+---------------------------------------------------------
+Desarrollar una aplicación Java que permita encontrar 
+el factorial de un número.
+
+
+Reto 07
+---------------------------------------------------------
+Desarrollar una aplicación Java que permita encontrar 
+encontrar la suma de los digitos de un número.
+
+ 
+Reto 08
+---------------------------------------------------------
+Desarrollar una aplicación Java que permita invertir 
+un número entero.
+
+
+Reto 09
+---------------------------------------------------------
+Desarrollar una aplicación Java que permita averiguar 
+cuantos dias tiene una mes de un determinado año.
+
+Reto 10
+---------------------------------------------------------
+Desarrollar un programa que calcula la potencia de una 
+base elevado a un exponente entero.
+
+Reto 11
+---------------------------------------------------------
+Desarrollar un programa que calcula el número de años en 
+el que se duplica una población que aumenta con una
+tasa de crecimiento positiva y fija anualmente.
+
+
+
+
+

@@ -1,0 +1,11 @@
+Desarrollar un programa que calcula la potencia de una 
+base elevado a un exponente entero.
+
+Ejemplos:
+
+ Entrada       Salida
+-------------------------
+  2  3          8
+  5  2          25
+  3  4          81
+  

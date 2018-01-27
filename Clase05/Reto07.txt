@@ -1,0 +1,12 @@
+Desarrollar una aplicación Java que permita encontrar 
+encontrar la suma de los digitos de un número.
+
+Ejemplos:
+
+ Entrada       Salida
+-------------------------
+  134           8
+  256           13
+  567           18
+
+  

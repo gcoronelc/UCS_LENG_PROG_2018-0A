@@ -1,0 +1,10 @@
+Desarrollar una aplicación Java que permita 
+invertir un número entero.
+
+Ejemplos:
+
+ Entrada       Salida
+-------------------------
+  134           431
+  256           652
+  567           765
