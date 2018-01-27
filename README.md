@@ -1,4 +1,4 @@
-﻿![TALLER DE PROGRAMACIÓN](https://raw.githubusercontent.com/gcoronelc/UCS_LENG_PROG_2018-0A/master/Img/LENG_PROG-2018-0A.JPG)
+﻿![LENGUAJES DE PROGRAMACION](https://raw.githubusercontent.com/gcoronelc/UCS_LENG_PROG_2018-0A/master/Img/LENG_PROG-2018-0A.JPG)
 
 # LENGUAJES DE PROGRAMACIÓN
 
