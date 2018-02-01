@@ -1,0 +1,9 @@
+Desarrollar un programa que permita generar
+una lista de "N" números enteros menores
+a 50.
+
+Luego, de la lista permita encontrar el mayor
+y el menor número.
+
+
+
