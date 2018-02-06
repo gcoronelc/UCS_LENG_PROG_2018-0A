@@ -1,0 +1,14 @@
+Desarrollar un programa que permita
+obtener los primeros "N" terminos
+de la serie de Fibonacci.
+
+Por ejemplo, si N vale 5.
+
+La respuesta debe ser:
+
+0, 1, 1, 2, 3
+
+
+
+
+
