@@ -1,0 +1,4 @@
+Elaborar un programa que permita calcular
+la boleta de un trabajador.
+
+3 puntos + en su practica 1.
