@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>Caluladora Muy Simple</title>
+<script>
+function calcula(operacion){
+var operando1 = document.calc.operando1.value
+var operando2 = document.calc.operando2.value
+var result = Math.round(eval(operando1 + operacion + operando2)*100)/100 //redondea a dos decimales
+document.calc.resultado.value = result
+}
+</script>
+<style type="text/css">
+h1 { text-align: center; font: bold 1.5em arial; padding: 0.5em; margin: 0;}
+div { border: 1px solid black; width: 45%; margin: 1%; padding: 1%; float: left}
+</style>
+</head>
+<body>
+<h1>Calculadora Basica</h1>
+<div>
+<form name="calc">
+Primer Operando:<input type="Text" name="operando1" placeholder="0" size="12" autofocus><br>
+Segundo Operando:<input type="Text" name="operando2" placeholder="0" size="12"><br> <br>
+<input type="Button" name="" value=" + " onclick="calcula('+')">
+<input type="Button" name="" value=" - " onclick="calcula('-')">
+<input type="Button" name="" value=" X " onclick="calcula('*')">
+<input type="Button" name="" value=" / " onclick="calcula('/')">
+&nbsp
+<input type="reset" name="" value=" C "><br><br>
+Resultado:<input type="Text" name="resultado" value="0" size="12">
+</form>
+</div>
+</body>
+</html>
