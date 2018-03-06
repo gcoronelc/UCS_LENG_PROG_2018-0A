@@ -1,0 +1,41 @@
+F:\demo02\demo02\bin\Debug\demo02.exe.config
+F:\demo02\demo02\bin\Debug\demo02.exe
+F:\demo02\demo02\bin\Debug\demo02.pdb
+F:\demo02\demo02\bin\Debug\demo02.xml
+F:\demo02\demo02\obj\Debug\demo02.Form1.resources
+F:\demo02\demo02\obj\Debug\demo02.Resources.resources
+F:\demo02\demo02\obj\Debug\demo02.vbproj.GenerateResource.Cache
+F:\demo02\demo02\obj\Debug\demo02.exe
+F:\demo02\demo02\obj\Debug\demo02.xml
+F:\demo02\demo02\obj\Debug\demo02.pdb
+F:\Aplicaciones de Programacion\demo02\demo02\bin\Debug\demo02.exe.config
+F:\Aplicaciones de Programacion\demo02\demo02\obj\Debug\demo02.exe
+F:\Aplicaciones de Programacion\demo02\demo02\obj\Debug\demo02.xml
+F:\Aplicaciones de Programacion\demo02\demo02\obj\Debug\demo02.pdb
+F:\Aplicaciones de Programacion\demo02\demo02\bin\Debug\demo02.exe
+F:\Aplicaciones de Programacion\demo02\demo02\bin\Debug\demo02.pdb
+F:\Aplicaciones de Programacion\demo02\demo02\bin\Debug\demo02.xml
+F:\Aplicaciones de Programacion\demo02\demo02\obj\Debug\demo02.Form1.resources
+F:\Aplicaciones de Programacion\demo02\demo02\obj\Debug\demo02.Resources.resources
+F:\Aplicaciones de Programacion\demo02\demo02\obj\Debug\demo02.vbproj.GenerateResource.Cache
+C:\Users\max10\Desktop\Trabajo Final\demo02\demo02\bin\Debug\demo02.exe.config
+C:\Users\max10\Desktop\Trabajo Final\demo02\demo02\bin\Debug\demo02.exe
+C:\Users\max10\Desktop\Trabajo Final\demo02\demo02\bin\Debug\demo02.pdb
+C:\Users\max10\Desktop\Trabajo Final\demo02\demo02\bin\Debug\demo02.xml
+C:\Users\max10\Desktop\Trabajo Final\demo02\demo02\obj\Debug\demo02.Form1.resources
+C:\Users\max10\Desktop\Trabajo Final\demo02\demo02\obj\Debug\demo02.Resources.resources
+C:\Users\max10\Desktop\Trabajo Final\demo02\demo02\obj\Debug\demo02.vbproj.GenerateResource.Cache
+C:\Users\max10\Desktop\Trabajo Final\demo02\demo02\obj\Debug\demo02.vbproj.CoreCompileInputs.cache
+C:\Users\max10\Desktop\Trabajo Final\demo02\demo02\obj\Debug\demo02.exe
+C:\Users\max10\Desktop\Trabajo Final\demo02\demo02\obj\Debug\demo02.xml
+C:\Users\max10\Desktop\Trabajo Final\demo02\demo02\obj\Debug\demo02.pdb
+C:\Users\DOCENTE\Desktop\Trabajo Final\demo02\demo02\bin\Debug\demo02.exe.config
+C:\Users\DOCENTE\Desktop\Trabajo Final\demo02\demo02\bin\Debug\demo02.exe
+C:\Users\DOCENTE\Desktop\Trabajo Final\demo02\demo02\bin\Debug\demo02.pdb
+C:\Users\DOCENTE\Desktop\Trabajo Final\demo02\demo02\bin\Debug\demo02.xml
+C:\Users\DOCENTE\Desktop\Trabajo Final\demo02\demo02\obj\Debug\demo02.Form1.resources
+C:\Users\DOCENTE\Desktop\Trabajo Final\demo02\demo02\obj\Debug\demo02.Resources.resources
+C:\Users\DOCENTE\Desktop\Trabajo Final\demo02\demo02\obj\Debug\demo02.vbproj.GenerateResource.Cache
+C:\Users\DOCENTE\Desktop\Trabajo Final\demo02\demo02\obj\Debug\demo02.exe
+C:\Users\DOCENTE\Desktop\Trabajo Final\demo02\demo02\obj\Debug\demo02.xml
+C:\Users\DOCENTE\Desktop\Trabajo Final\demo02\demo02\obj\Debug\demo02.pdb

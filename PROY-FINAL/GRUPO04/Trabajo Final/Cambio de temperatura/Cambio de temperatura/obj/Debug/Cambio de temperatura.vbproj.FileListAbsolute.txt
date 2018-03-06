@@ -1,0 +1,32 @@
+C:\Users\Administrador\Desktop\app.net\Cambio de temperatura\Cambio de temperatura\bin\Debug\Cambio de temperatura.exe.config
+C:\Users\Administrador\Desktop\app.net\Cambio de temperatura\Cambio de temperatura\bin\Debug\Cambio de temperatura.exe
+C:\Users\Administrador\Desktop\app.net\Cambio de temperatura\Cambio de temperatura\bin\Debug\Cambio de temperatura.pdb
+C:\Users\Administrador\Desktop\app.net\Cambio de temperatura\Cambio de temperatura\bin\Debug\Cambio de temperatura.xml
+C:\Users\Administrador\Desktop\app.net\Cambio de temperatura\Cambio de temperatura\obj\Debug\Cambio_de_temperatura.Resources.resources
+C:\Users\Administrador\Desktop\app.net\Cambio de temperatura\Cambio de temperatura\obj\Debug\Cambio de temperatura.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\app.net\Cambio de temperatura\Cambio de temperatura\obj\Debug\Cambio de temperatura.exe
+C:\Users\Administrador\Desktop\app.net\Cambio de temperatura\Cambio de temperatura\obj\Debug\Cambio de temperatura.xml
+C:\Users\Administrador\Desktop\app.net\Cambio de temperatura\Cambio de temperatura\obj\Debug\Cambio de temperatura.pdb
+F:\app.net\Cambio de temperatura\Cambio de temperatura\bin\Debug\Cambio de temperatura.exe.config
+F:\app.net\Cambio de temperatura\Cambio de temperatura\obj\Debug\Cambio de temperatura.exe
+F:\app.net\Cambio de temperatura\Cambio de temperatura\obj\Debug\Cambio de temperatura.xml
+F:\app.net\Cambio de temperatura\Cambio de temperatura\obj\Debug\Cambio de temperatura.pdb
+C:\Users\Max\Documents\1er ciclo\app.net\Cambio de temperatura\Cambio de temperatura\bin\Debug\Cambio de temperatura.exe.config
+C:\Users\Max\Documents\1er ciclo\app.net\Cambio de temperatura\Cambio de temperatura\obj\Debug\Cambio de temperatura.exe
+C:\Users\Max\Documents\1er ciclo\app.net\Cambio de temperatura\Cambio de temperatura\obj\Debug\Cambio de temperatura.xml
+C:\Users\Max\Documents\1er ciclo\app.net\Cambio de temperatura\Cambio de temperatura\obj\Debug\Cambio de temperatura.pdb
+C:\Users\Max\Documents\1er ciclo\app.net\Cambio de temperatura\Cambio de temperatura\bin\Debug\Cambio de temperatura.exe
+C:\Users\Max\Documents\1er ciclo\app.net\Cambio de temperatura\Cambio de temperatura\bin\Debug\Cambio de temperatura.pdb
+C:\Users\Max\Documents\1er ciclo\app.net\Cambio de temperatura\Cambio de temperatura\bin\Debug\Cambio de temperatura.xml
+C:\Users\Max\Documents\1er ciclo\app.net\Cambio de temperatura\Cambio de temperatura\obj\Debug\Cambio_de_temperatura.Resources.resources
+C:\Users\Max\Documents\1er ciclo\app.net\Cambio de temperatura\Cambio de temperatura\obj\Debug\Cambio de temperatura.vbproj.GenerateResource.Cache
+C:\Users\max10\Desktop\Maquina\1er ciclo\app.net\Cambio de temperatura\Cambio de temperatura\bin\Debug\Cambio de temperatura.exe.config
+C:\Users\max10\Desktop\Maquina\1er ciclo\app.net\Cambio de temperatura\Cambio de temperatura\bin\Debug\Cambio de temperatura.exe
+C:\Users\max10\Desktop\Maquina\1er ciclo\app.net\Cambio de temperatura\Cambio de temperatura\bin\Debug\Cambio de temperatura.pdb
+C:\Users\max10\Desktop\Maquina\1er ciclo\app.net\Cambio de temperatura\Cambio de temperatura\bin\Debug\Cambio de temperatura.xml
+C:\Users\max10\Desktop\Maquina\1er ciclo\app.net\Cambio de temperatura\Cambio de temperatura\obj\Debug\Cambio_de_temperatura.Resources.resources
+C:\Users\max10\Desktop\Maquina\1er ciclo\app.net\Cambio de temperatura\Cambio de temperatura\obj\Debug\Cambio de temperatura.vbproj.GenerateResource.Cache
+C:\Users\max10\Desktop\Maquina\1er ciclo\app.net\Cambio de temperatura\Cambio de temperatura\obj\Debug\Cambio de temperatura.vbproj.CoreCompileInputs.cache
+C:\Users\max10\Desktop\Maquina\1er ciclo\app.net\Cambio de temperatura\Cambio de temperatura\obj\Debug\Cambio de temperatura.exe
+C:\Users\max10\Desktop\Maquina\1er ciclo\app.net\Cambio de temperatura\Cambio de temperatura\obj\Debug\Cambio de temperatura.xml
+C:\Users\max10\Desktop\Maquina\1er ciclo\app.net\Cambio de temperatura\Cambio de temperatura\obj\Debug\Cambio de temperatura.pdb

@@ -1,0 +1,32 @@
+C:\Users\Administrador\Desktop\app.net\Cantidad de monedas\Cantidad de monedas\bin\Debug\Cantidad de monedas.exe.config
+C:\Users\Administrador\Desktop\app.net\Cantidad de monedas\Cantidad de monedas\bin\Debug\Cantidad de monedas.exe
+C:\Users\Administrador\Desktop\app.net\Cantidad de monedas\Cantidad de monedas\bin\Debug\Cantidad de monedas.pdb
+C:\Users\Administrador\Desktop\app.net\Cantidad de monedas\Cantidad de monedas\bin\Debug\Cantidad de monedas.xml
+C:\Users\Administrador\Desktop\app.net\Cantidad de monedas\Cantidad de monedas\obj\Debug\Cantidad_de_monedas.Resources.resources
+C:\Users\Administrador\Desktop\app.net\Cantidad de monedas\Cantidad de monedas\obj\Debug\Cantidad de monedas.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\app.net\Cantidad de monedas\Cantidad de monedas\obj\Debug\Cantidad de monedas.exe
+C:\Users\Administrador\Desktop\app.net\Cantidad de monedas\Cantidad de monedas\obj\Debug\Cantidad de monedas.xml
+C:\Users\Administrador\Desktop\app.net\Cantidad de monedas\Cantidad de monedas\obj\Debug\Cantidad de monedas.pdb
+F:\app.net\Cantidad de monedas\Cantidad de monedas\bin\Debug\Cantidad de monedas.exe.config
+F:\app.net\Cantidad de monedas\Cantidad de monedas\obj\Debug\Cantidad de monedas.exe
+F:\app.net\Cantidad de monedas\Cantidad de monedas\obj\Debug\Cantidad de monedas.xml
+F:\app.net\Cantidad de monedas\Cantidad de monedas\obj\Debug\Cantidad de monedas.pdb
+C:\Users\max10\Desktop\Trabajo Final\Cantidad de monedas\Cantidad de monedas\bin\Debug\Cantidad de monedas.exe.config
+C:\Users\max10\Desktop\Trabajo Final\Cantidad de monedas\Cantidad de monedas\bin\Debug\Cantidad de monedas.exe
+C:\Users\max10\Desktop\Trabajo Final\Cantidad de monedas\Cantidad de monedas\bin\Debug\Cantidad de monedas.pdb
+C:\Users\max10\Desktop\Trabajo Final\Cantidad de monedas\Cantidad de monedas\bin\Debug\Cantidad de monedas.xml
+C:\Users\max10\Desktop\Trabajo Final\Cantidad de monedas\Cantidad de monedas\obj\Debug\Cantidad_de_monedas.Resources.resources
+C:\Users\max10\Desktop\Trabajo Final\Cantidad de monedas\Cantidad de monedas\obj\Debug\Cantidad de monedas.vbproj.GenerateResource.Cache
+C:\Users\max10\Desktop\Trabajo Final\Cantidad de monedas\Cantidad de monedas\obj\Debug\Cantidad de monedas.vbproj.CoreCompileInputs.cache
+C:\Users\max10\Desktop\Trabajo Final\Cantidad de monedas\Cantidad de monedas\obj\Debug\Cantidad de monedas.exe
+C:\Users\max10\Desktop\Trabajo Final\Cantidad de monedas\Cantidad de monedas\obj\Debug\Cantidad de monedas.xml
+C:\Users\max10\Desktop\Trabajo Final\Cantidad de monedas\Cantidad de monedas\obj\Debug\Cantidad de monedas.pdb
+C:\Users\DOCENTE\Desktop\Trabajo Final\Cantidad de monedas\Cantidad de monedas\bin\Debug\Cantidad de monedas.exe.config
+C:\Users\DOCENTE\Desktop\Trabajo Final\Cantidad de monedas\Cantidad de monedas\obj\Debug\Cantidad de monedas.exe
+C:\Users\DOCENTE\Desktop\Trabajo Final\Cantidad de monedas\Cantidad de monedas\obj\Debug\Cantidad de monedas.xml
+C:\Users\DOCENTE\Desktop\Trabajo Final\Cantidad de monedas\Cantidad de monedas\obj\Debug\Cantidad de monedas.pdb
+C:\Users\DOCENTE\Desktop\Trabajo Final\Cantidad de monedas\Cantidad de monedas\bin\Debug\Cantidad de monedas.exe
+C:\Users\DOCENTE\Desktop\Trabajo Final\Cantidad de monedas\Cantidad de monedas\bin\Debug\Cantidad de monedas.pdb
+C:\Users\DOCENTE\Desktop\Trabajo Final\Cantidad de monedas\Cantidad de monedas\bin\Debug\Cantidad de monedas.xml
+C:\Users\DOCENTE\Desktop\Trabajo Final\Cantidad de monedas\Cantidad de monedas\obj\Debug\Cantidad_de_monedas.Resources.resources
+C:\Users\DOCENTE\Desktop\Trabajo Final\Cantidad de monedas\Cantidad de monedas\obj\Debug\Cantidad de monedas.vbproj.GenerateResource.Cache

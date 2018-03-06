@@ -1,0 +1,30 @@
+d:\users\luis escobar\documents\visual studio 2012\Projects\CSharp-3Capas-Primer Entrega\Tienda-Presentacion\bin\Debug\Tienda-Presentacion.exe.config
+d:\users\luis escobar\documents\visual studio 2012\Projects\CSharp-3Capas-Primer Entrega\Tienda-Presentacion\bin\Debug\Tienda-Presentacion.exe
+d:\users\luis escobar\documents\visual studio 2012\Projects\CSharp-3Capas-Primer Entrega\Tienda-Presentacion\bin\Debug\Tienda-Presentacion.pdb
+d:\users\luis escobar\documents\visual studio 2012\Projects\CSharp-3Capas-Primer Entrega\Tienda-Presentacion\obj\Debug\Tienda-Presentacion.csprojResolveAssemblyReference.cache
+d:\users\luis escobar\documents\visual studio 2012\Projects\CSharp-3Capas-Primer Entrega\Tienda-Presentacion\obj\Debug\Tienda_Presentacion.Properties.Resources.resources
+d:\users\luis escobar\documents\visual studio 2012\Projects\CSharp-3Capas-Primer Entrega\Tienda-Presentacion\obj\Debug\Tienda-Presentacion.csproj.GenerateResource.Cache
+d:\users\luis escobar\documents\visual studio 2012\Projects\CSharp-3Capas-Primer Entrega\Tienda-Presentacion\obj\Debug\Tienda-Presentacion.exe
+d:\users\luis escobar\documents\visual studio 2012\Projects\CSharp-3Capas-Primer Entrega\Tienda-Presentacion\obj\Debug\Tienda-Presentacion.pdb
+D:\Users\Luis Escobar\Documents\Visual Studio 2012\Projects\CSharp-3Capas-Primer Entrega\Tienda-Presentacion\bin\Debug\Tienda-Entidades.dll
+D:\Users\Luis Escobar\Documents\Visual Studio 2012\Projects\CSharp-3Capas-Primer Entrega\Tienda-Presentacion\bin\Debug\Tienda-LogicaNegocio.dll
+D:\Users\Luis Escobar\Documents\Visual Studio 2012\Projects\CSharp-3Capas-Primer Entrega\Tienda-Presentacion\bin\Debug\Tienda-AccesoDatos.dll
+D:\Users\Luis Escobar\Documents\Visual Studio 2012\Projects\CSharp-3Capas-Primer Entrega\Tienda-Presentacion\bin\Debug\Tienda-Entidades.pdb
+D:\Users\Luis Escobar\Documents\Visual Studio 2012\Projects\CSharp-3Capas-Primer Entrega\Tienda-Presentacion\bin\Debug\Tienda-LogicaNegocio.pdb
+D:\Users\Luis Escobar\Documents\Visual Studio 2012\Projects\CSharp-3Capas-Primer Entrega\Tienda-Presentacion\bin\Debug\Tienda-AccesoDatos.pdb
+D:\Users\Luis Escobar\Documents\Visual Studio 2012\Projects\CSharp-3Capas-Primer Entrega\Tienda-Presentacion\obj\Debug\Tienda_Presentacion.Form1.resources
+D:\EGCC\UCS_LENG_PROG_2018-0A\PROY-FINAL\GRUPO01\CSharp-3Capas-Primer Entrega\Tienda-Presentacion\bin\Debug\Tienda-Presentacion.exe.config
+D:\EGCC\UCS_LENG_PROG_2018-0A\PROY-FINAL\GRUPO01\CSharp-3Capas-Primer Entrega\Tienda-Presentacion\obj\Debug\Tienda-Presentacion.exe
+D:\EGCC\UCS_LENG_PROG_2018-0A\PROY-FINAL\GRUPO01\CSharp-3Capas-Primer Entrega\Tienda-Presentacion\obj\Debug\Tienda-Presentacion.pdb
+D:\EGCC\UCS_LENG_PROG_2018-0A\PROY-FINAL\GRUPO01\CSharp-3Capas-Primer Entrega\Tienda-Presentacion\bin\Debug\Tienda-Presentacion.exe
+D:\EGCC\UCS_LENG_PROG_2018-0A\PROY-FINAL\GRUPO01\CSharp-3Capas-Primer Entrega\Tienda-Presentacion\bin\Debug\Tienda-Presentacion.pdb
+D:\EGCC\UCS_LENG_PROG_2018-0A\PROY-FINAL\GRUPO01\CSharp-3Capas-Primer Entrega\Tienda-Presentacion\bin\Debug\Tienda-Entidades.dll
+D:\EGCC\UCS_LENG_PROG_2018-0A\PROY-FINAL\GRUPO01\CSharp-3Capas-Primer Entrega\Tienda-Presentacion\bin\Debug\Tienda-LogicaNegocio.dll
+D:\EGCC\UCS_LENG_PROG_2018-0A\PROY-FINAL\GRUPO01\CSharp-3Capas-Primer Entrega\Tienda-Presentacion\bin\Debug\Tienda-AccesoDatos.dll
+D:\EGCC\UCS_LENG_PROG_2018-0A\PROY-FINAL\GRUPO01\CSharp-3Capas-Primer Entrega\Tienda-Presentacion\bin\Debug\Tienda-Entidades.pdb
+D:\EGCC\UCS_LENG_PROG_2018-0A\PROY-FINAL\GRUPO01\CSharp-3Capas-Primer Entrega\Tienda-Presentacion\bin\Debug\Tienda-LogicaNegocio.pdb
+D:\EGCC\UCS_LENG_PROG_2018-0A\PROY-FINAL\GRUPO01\CSharp-3Capas-Primer Entrega\Tienda-Presentacion\bin\Debug\Tienda-AccesoDatos.pdb
+D:\EGCC\UCS_LENG_PROG_2018-0A\PROY-FINAL\GRUPO01\CSharp-3Capas-Primer Entrega\Tienda-Presentacion\obj\Debug\Tienda-Presentacion.csprojResolveAssemblyReference.cache
+D:\EGCC\UCS_LENG_PROG_2018-0A\PROY-FINAL\GRUPO01\CSharp-3Capas-Primer Entrega\Tienda-Presentacion\obj\Debug\Tienda_Presentacion.Form1.resources
+D:\EGCC\UCS_LENG_PROG_2018-0A\PROY-FINAL\GRUPO01\CSharp-3Capas-Primer Entrega\Tienda-Presentacion\obj\Debug\Tienda_Presentacion.Properties.Resources.resources
+D:\EGCC\UCS_LENG_PROG_2018-0A\PROY-FINAL\GRUPO01\CSharp-3Capas-Primer Entrega\Tienda-Presentacion\obj\Debug\Tienda-Presentacion.csproj.GenerateResource.Cache

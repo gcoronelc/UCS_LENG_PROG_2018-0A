@@ -1,0 +1,35 @@
+G:\Alumnos\Alumnos\bin\Debug\Alumnos.exe.config
+G:\Alumnos\Alumnos\bin\Debug\Alumnos.exe
+G:\Alumnos\Alumnos\bin\Debug\Alumnos.pdb
+G:\Alumnos\Alumnos\bin\Debug\Alumnos.xml
+G:\Alumnos\Alumnos\obj\Debug\Alumnos.Form1.resources
+G:\Alumnos\Alumnos\obj\Debug\Alumnos.Resources.resources
+G:\Alumnos\Alumnos\obj\Debug\Alumnos.vbproj.GenerateResource.Cache
+G:\Alumnos\Alumnos\obj\Debug\Alumnos.exe
+G:\Alumnos\Alumnos\obj\Debug\Alumnos.xml
+G:\Alumnos\Alumnos\obj\Debug\Alumnos.pdb
+G:\Aplicaciones de Programacion\Alumnos\Alumnos\bin\Debug\Alumnos.exe.config
+G:\Aplicaciones de Programacion\Alumnos\Alumnos\obj\Debug\Alumnos.exe
+G:\Aplicaciones de Programacion\Alumnos\Alumnos\obj\Debug\Alumnos.xml
+G:\Aplicaciones de Programacion\Alumnos\Alumnos\obj\Debug\Alumnos.pdb
+C:\Users\max10\Desktop\Maquina\2do ciclo\Aplicaciones de Programacion\Alumnos\Alumnos\bin\Debug\Alumnos.exe.config
+C:\Users\max10\Desktop\Maquina\2do ciclo\Aplicaciones de Programacion\Alumnos\Alumnos\bin\Debug\Alumnos.exe
+C:\Users\max10\Desktop\Maquina\2do ciclo\Aplicaciones de Programacion\Alumnos\Alumnos\bin\Debug\Alumnos.pdb
+C:\Users\max10\Desktop\Maquina\2do ciclo\Aplicaciones de Programacion\Alumnos\Alumnos\bin\Debug\Alumnos.xml
+C:\Users\max10\Desktop\Maquina\2do ciclo\Aplicaciones de Programacion\Alumnos\Alumnos\obj\Debug\Alumnos.Form1.resources
+C:\Users\max10\Desktop\Maquina\2do ciclo\Aplicaciones de Programacion\Alumnos\Alumnos\obj\Debug\Alumnos.Resources.resources
+C:\Users\max10\Desktop\Maquina\2do ciclo\Aplicaciones de Programacion\Alumnos\Alumnos\obj\Debug\Alumnos.vbproj.GenerateResource.Cache
+C:\Users\max10\Desktop\Maquina\2do ciclo\Aplicaciones de Programacion\Alumnos\Alumnos\obj\Debug\Alumnos.vbproj.CoreCompileInputs.cache
+C:\Users\max10\Desktop\Maquina\2do ciclo\Aplicaciones de Programacion\Alumnos\Alumnos\obj\Debug\Alumnos.exe
+C:\Users\max10\Desktop\Maquina\2do ciclo\Aplicaciones de Programacion\Alumnos\Alumnos\obj\Debug\Alumnos.xml
+C:\Users\max10\Desktop\Maquina\2do ciclo\Aplicaciones de Programacion\Alumnos\Alumnos\obj\Debug\Alumnos.pdb
+C:\Users\DOCENTE\Desktop\Trabajo Final\Alumnos\Alumnos\bin\Debug\Alumnos.exe.config
+C:\Users\DOCENTE\Desktop\Trabajo Final\Alumnos\Alumnos\bin\Debug\Alumnos.exe
+C:\Users\DOCENTE\Desktop\Trabajo Final\Alumnos\Alumnos\bin\Debug\Alumnos.pdb
+C:\Users\DOCENTE\Desktop\Trabajo Final\Alumnos\Alumnos\bin\Debug\Alumnos.xml
+C:\Users\DOCENTE\Desktop\Trabajo Final\Alumnos\Alumnos\obj\Debug\Alumnos.Form1.resources
+C:\Users\DOCENTE\Desktop\Trabajo Final\Alumnos\Alumnos\obj\Debug\Alumnos.Resources.resources
+C:\Users\DOCENTE\Desktop\Trabajo Final\Alumnos\Alumnos\obj\Debug\Alumnos.vbproj.GenerateResource.Cache
+C:\Users\DOCENTE\Desktop\Trabajo Final\Alumnos\Alumnos\obj\Debug\Alumnos.exe
+C:\Users\DOCENTE\Desktop\Trabajo Final\Alumnos\Alumnos\obj\Debug\Alumnos.xml
+C:\Users\DOCENTE\Desktop\Trabajo Final\Alumnos\Alumnos\obj\Debug\Alumnos.pdb

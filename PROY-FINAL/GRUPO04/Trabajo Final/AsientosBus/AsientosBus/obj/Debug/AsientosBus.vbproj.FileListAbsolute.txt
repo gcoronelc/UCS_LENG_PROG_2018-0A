@@ -1,0 +1,68 @@
+G:\AsientosBus\AsientosBus\bin\Debug\AsientosBus.exe.config
+G:\AsientosBus\AsientosBus\bin\Debug\AsientosBus.exe
+G:\AsientosBus\AsientosBus\bin\Debug\AsientosBus.pdb
+G:\AsientosBus\AsientosBus\bin\Debug\AsientosBus.xml
+G:\AsientosBus\AsientosBus\obj\Debug\AsientosBus.Form1.resources
+G:\AsientosBus\AsientosBus\obj\Debug\AsientosBus.Resources.resources
+G:\AsientosBus\AsientosBus\obj\Debug\AsientosBus.vbproj.GenerateResource.Cache
+G:\AsientosBus\AsientosBus\obj\Debug\AsientosBus.exe
+G:\AsientosBus\AsientosBus\obj\Debug\AsientosBus.xml
+G:\AsientosBus\AsientosBus\obj\Debug\AsientosBus.pdb
+H:\AsientosBus\AsientosBus\bin\Debug\AsientosBus.exe.config
+H:\AsientosBus\AsientosBus\obj\Debug\AsientosBus.exe
+H:\AsientosBus\AsientosBus\obj\Debug\AsientosBus.xml
+H:\AsientosBus\AsientosBus\obj\Debug\AsientosBus.pdb
+H:\AsientosBus\AsientosBus\bin\Debug\AsientosBus.exe
+H:\AsientosBus\AsientosBus\bin\Debug\AsientosBus.pdb
+H:\AsientosBus\AsientosBus\bin\Debug\AsientosBus.xml
+H:\AsientosBus\AsientosBus\obj\Debug\AsientosBus.Form1.resources
+H:\AsientosBus\AsientosBus\obj\Debug\AsientosBus.Resources.resources
+H:\AsientosBus\AsientosBus\obj\Debug\AsientosBus.vbproj.GenerateResource.Cache
+H:\Aplicaciones de Programacion\AsientosBus\AsientosBus\bin\Debug\AsientosBus.exe.config
+H:\Aplicaciones de Programacion\AsientosBus\AsientosBus\obj\Debug\AsientosBus.exe
+H:\Aplicaciones de Programacion\AsientosBus\AsientosBus\obj\Debug\AsientosBus.xml
+H:\Aplicaciones de Programacion\AsientosBus\AsientosBus\obj\Debug\AsientosBus.pdb
+G:\Aplicaciones de Programacion\AsientosBus\AsientosBus\bin\Debug\AsientosBus.exe.config
+G:\Aplicaciones de Programacion\AsientosBus\AsientosBus\obj\Debug\AsientosBus.exe
+G:\Aplicaciones de Programacion\AsientosBus\AsientosBus\obj\Debug\AsientosBus.xml
+G:\Aplicaciones de Programacion\AsientosBus\AsientosBus\obj\Debug\AsientosBus.pdb
+G:\Aplicaciones de Programacion\AsientosBus\AsientosBus\bin\Debug\AsientosBus.exe
+G:\Aplicaciones de Programacion\AsientosBus\AsientosBus\bin\Debug\AsientosBus.pdb
+G:\Aplicaciones de Programacion\AsientosBus\AsientosBus\bin\Debug\AsientosBus.xml
+G:\Aplicaciones de Programacion\AsientosBus\AsientosBus\obj\Debug\AsientosBus.Form1.resources
+G:\Aplicaciones de Programacion\AsientosBus\AsientosBus\obj\Debug\AsientosBus.Resources.resources
+G:\Aplicaciones de Programacion\AsientosBus\AsientosBus\obj\Debug\AsientosBus.vbproj.GenerateResource.Cache
+C:\Users\Max\Documents\2do ciclo\Aplicaciones de Programacion\AsientosBus\AsientosBus\bin\Debug\AsientosBus.exe.config
+C:\Users\Max\Documents\2do ciclo\Aplicaciones de Programacion\AsientosBus\AsientosBus\obj\Debug\AsientosBus.exe
+C:\Users\Max\Documents\2do ciclo\Aplicaciones de Programacion\AsientosBus\AsientosBus\obj\Debug\AsientosBus.xml
+C:\Users\Max\Documents\2do ciclo\Aplicaciones de Programacion\AsientosBus\AsientosBus\obj\Debug\AsientosBus.pdb
+C:\Users\Max\Documents\2do ciclo\Aplicaciones de Programacion\AsientosBus\AsientosBus\bin\Debug\AsientosBus.exe
+C:\Users\Max\Documents\2do ciclo\Aplicaciones de Programacion\AsientosBus\AsientosBus\bin\Debug\AsientosBus.pdb
+C:\Users\Max\Documents\2do ciclo\Aplicaciones de Programacion\AsientosBus\AsientosBus\bin\Debug\AsientosBus.xml
+C:\Users\Max\Documents\2do ciclo\Aplicaciones de Programacion\AsientosBus\AsientosBus\obj\Debug\AsientosBus.Form1.resources
+C:\Users\Max\Documents\2do ciclo\Aplicaciones de Programacion\AsientosBus\AsientosBus\obj\Debug\AsientosBus.Resources.resources
+C:\Users\Max\Documents\2do ciclo\Aplicaciones de Programacion\AsientosBus\AsientosBus\obj\Debug\AsientosBus.vbproj.GenerateResource.Cache
+C:\Users\Max\Documents\2do ciclo\Aplicaciones de Programacion\AsientosBus\AsientosBus\obj\Debug\AsientosBus.vbprojResolveAssemblyReference.cache
+C:\Users\max10\Desktop\Maquina\2do ciclo\Aplicaciones de Programacion\AsientosBus\AsientosBus\bin\Debug\AsientosBus.exe.config
+C:\Users\max10\Desktop\Maquina\2do ciclo\Aplicaciones de Programacion\AsientosBus\AsientosBus\bin\Debug\AsientosBus.exe
+C:\Users\max10\Desktop\Maquina\2do ciclo\Aplicaciones de Programacion\AsientosBus\AsientosBus\bin\Debug\AsientosBus.pdb
+C:\Users\max10\Desktop\Maquina\2do ciclo\Aplicaciones de Programacion\AsientosBus\AsientosBus\bin\Debug\AsientosBus.xml
+C:\Users\max10\Desktop\Maquina\2do ciclo\Aplicaciones de Programacion\AsientosBus\AsientosBus\obj\Debug\AsientosBus.vbprojResolveAssemblyReference.cache
+C:\Users\max10\Desktop\Maquina\2do ciclo\Aplicaciones de Programacion\AsientosBus\AsientosBus\obj\Debug\AsientosBus.Form1.resources
+C:\Users\max10\Desktop\Maquina\2do ciclo\Aplicaciones de Programacion\AsientosBus\AsientosBus\obj\Debug\AsientosBus.Resources.resources
+C:\Users\max10\Desktop\Maquina\2do ciclo\Aplicaciones de Programacion\AsientosBus\AsientosBus\obj\Debug\AsientosBus.vbproj.GenerateResource.Cache
+C:\Users\max10\Desktop\Maquina\2do ciclo\Aplicaciones de Programacion\AsientosBus\AsientosBus\obj\Debug\AsientosBus.vbproj.CoreCompileInputs.cache
+C:\Users\max10\Desktop\Maquina\2do ciclo\Aplicaciones de Programacion\AsientosBus\AsientosBus\obj\Debug\AsientosBus.exe
+C:\Users\max10\Desktop\Maquina\2do ciclo\Aplicaciones de Programacion\AsientosBus\AsientosBus\obj\Debug\AsientosBus.xml
+C:\Users\max10\Desktop\Maquina\2do ciclo\Aplicaciones de Programacion\AsientosBus\AsientosBus\obj\Debug\AsientosBus.pdb
+C:\Users\DOCENTE\Desktop\Trabajo Final\AsientosBus\AsientosBus\bin\Debug\AsientosBus.exe.config
+C:\Users\DOCENTE\Desktop\Trabajo Final\AsientosBus\AsientosBus\bin\Debug\AsientosBus.exe
+C:\Users\DOCENTE\Desktop\Trabajo Final\AsientosBus\AsientosBus\bin\Debug\AsientosBus.pdb
+C:\Users\DOCENTE\Desktop\Trabajo Final\AsientosBus\AsientosBus\bin\Debug\AsientosBus.xml
+C:\Users\DOCENTE\Desktop\Trabajo Final\AsientosBus\AsientosBus\obj\Debug\AsientosBus.vbprojResolveAssemblyReference.cache
+C:\Users\DOCENTE\Desktop\Trabajo Final\AsientosBus\AsientosBus\obj\Debug\AsientosBus.Form1.resources
+C:\Users\DOCENTE\Desktop\Trabajo Final\AsientosBus\AsientosBus\obj\Debug\AsientosBus.Resources.resources
+C:\Users\DOCENTE\Desktop\Trabajo Final\AsientosBus\AsientosBus\obj\Debug\AsientosBus.vbproj.GenerateResource.Cache
+C:\Users\DOCENTE\Desktop\Trabajo Final\AsientosBus\AsientosBus\obj\Debug\AsientosBus.exe
+C:\Users\DOCENTE\Desktop\Trabajo Final\AsientosBus\AsientosBus\obj\Debug\AsientosBus.xml
+C:\Users\DOCENTE\Desktop\Trabajo Final\AsientosBus\AsientosBus\obj\Debug\AsientosBus.pdb

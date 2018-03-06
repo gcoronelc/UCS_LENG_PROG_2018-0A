@@ -1,0 +1,20 @@
+d:\users\luis escobar\documents\visual studio 2012\Projects\CSharp-3Capas-Primer Entrega\Tienda-LogicaNegocio\bin\Debug\Tienda-LogicaNegocio.dll
+d:\users\luis escobar\documents\visual studio 2012\Projects\CSharp-3Capas-Primer Entrega\Tienda-LogicaNegocio\bin\Debug\Tienda-LogicaNegocio.pdb
+d:\users\luis escobar\documents\visual studio 2012\Projects\CSharp-3Capas-Primer Entrega\Tienda-LogicaNegocio\obj\Debug\Tienda-LogicaNegocio.dll
+d:\users\luis escobar\documents\visual studio 2012\Projects\CSharp-3Capas-Primer Entrega\Tienda-LogicaNegocio\obj\Debug\Tienda-LogicaNegocio.pdb
+D:\Users\Luis Escobar\Documents\Visual Studio 2012\Projects\CSharp-3Capas-Primer Entrega\Tienda-LogicaNegocio\bin\Debug\Tienda-AccesoDatos.dll
+D:\Users\Luis Escobar\Documents\Visual Studio 2012\Projects\CSharp-3Capas-Primer Entrega\Tienda-LogicaNegocio\bin\Debug\Tienda-Entidades.dll
+D:\Users\Luis Escobar\Documents\Visual Studio 2012\Projects\CSharp-3Capas-Primer Entrega\Tienda-LogicaNegocio\bin\Debug\Tienda-AccesoDatos.pdb
+D:\Users\Luis Escobar\Documents\Visual Studio 2012\Projects\CSharp-3Capas-Primer Entrega\Tienda-LogicaNegocio\bin\Debug\Tienda-Entidades.pdb
+D:\Users\Luis Escobar\Documents\Visual Studio 2012\Projects\CSharp-3Capas-Primer Entrega\Tienda-LogicaNegocio\obj\Debug\Tienda-LogicaNegocio.csprojResolveAssemblyReference.cache
+D:\EGCC\UCS_LENG_PROG_2018-0A\PROY-FINAL\GRUPO01\CSharp-3Capas-Primer Entrega\Tienda-LogicaNegocio\bin\Debug\Tienda-LogicaNegocio.dll
+D:\EGCC\UCS_LENG_PROG_2018-0A\PROY-FINAL\GRUPO01\CSharp-3Capas-Primer Entrega\Tienda-LogicaNegocio\bin\Debug\Tienda-LogicaNegocio.pdb
+D:\EGCC\UCS_LENG_PROG_2018-0A\PROY-FINAL\GRUPO01\CSharp-3Capas-Primer Entrega\Tienda-LogicaNegocio\bin\Debug\Tienda-AccesoDatos.dll
+D:\EGCC\UCS_LENG_PROG_2018-0A\PROY-FINAL\GRUPO01\CSharp-3Capas-Primer Entrega\Tienda-LogicaNegocio\bin\Debug\Tienda-Entidades.dll
+D:\EGCC\UCS_LENG_PROG_2018-0A\PROY-FINAL\GRUPO01\CSharp-3Capas-Primer Entrega\Tienda-LogicaNegocio\bin\Debug\System.Data.SqlServerCe.dll
+D:\EGCC\UCS_LENG_PROG_2018-0A\PROY-FINAL\GRUPO01\CSharp-3Capas-Primer Entrega\Tienda-LogicaNegocio\bin\Debug\Tienda-AccesoDatos.pdb
+D:\EGCC\UCS_LENG_PROG_2018-0A\PROY-FINAL\GRUPO01\CSharp-3Capas-Primer Entrega\Tienda-LogicaNegocio\bin\Debug\Tienda-Entidades.pdb
+D:\EGCC\UCS_LENG_PROG_2018-0A\PROY-FINAL\GRUPO01\CSharp-3Capas-Primer Entrega\Tienda-LogicaNegocio\bin\Debug\ES\System.Data.SqlServerCe.resources.dll
+D:\EGCC\UCS_LENG_PROG_2018-0A\PROY-FINAL\GRUPO01\CSharp-3Capas-Primer Entrega\Tienda-LogicaNegocio\obj\Debug\Tienda-LogicaNegocio.csprojResolveAssemblyReference.cache
+D:\EGCC\UCS_LENG_PROG_2018-0A\PROY-FINAL\GRUPO01\CSharp-3Capas-Primer Entrega\Tienda-LogicaNegocio\obj\Debug\Tienda-LogicaNegocio.dll
+D:\EGCC\UCS_LENG_PROG_2018-0A\PROY-FINAL\GRUPO01\CSharp-3Capas-Primer Entrega\Tienda-LogicaNegocio\obj\Debug\Tienda-LogicaNegocio.pdb

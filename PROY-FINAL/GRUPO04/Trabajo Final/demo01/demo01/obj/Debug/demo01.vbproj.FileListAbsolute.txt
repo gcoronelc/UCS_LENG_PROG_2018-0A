@@ -1,0 +1,32 @@
+F:\demo01\demo01\bin\Debug\demo01.exe.config
+F:\demo01\demo01\bin\Debug\demo01.exe
+F:\demo01\demo01\bin\Debug\demo01.pdb
+F:\demo01\demo01\bin\Debug\demo01.xml
+F:\demo01\demo01\obj\Debug\demo01.Resources.resources
+F:\demo01\demo01\obj\Debug\demo01.vbproj.GenerateResource.Cache
+F:\demo01\demo01\obj\Debug\demo01.exe
+F:\demo01\demo01\obj\Debug\demo01.xml
+F:\demo01\demo01\obj\Debug\demo01.pdb
+F:\demo01\demo01\obj\Debug\demo01.Form1.resources
+C:\Users\max10\Desktop\Trabajo Final\demo01\demo01\bin\Debug\demo01.exe.config
+C:\Users\max10\Desktop\Trabajo Final\demo01\demo01\bin\Debug\demo01.exe
+C:\Users\max10\Desktop\Trabajo Final\demo01\demo01\bin\Debug\demo01.pdb
+C:\Users\max10\Desktop\Trabajo Final\demo01\demo01\bin\Debug\demo01.xml
+C:\Users\max10\Desktop\Trabajo Final\demo01\demo01\obj\Debug\demo01.Form1.resources
+C:\Users\max10\Desktop\Trabajo Final\demo01\demo01\obj\Debug\demo01.Resources.resources
+C:\Users\max10\Desktop\Trabajo Final\demo01\demo01\obj\Debug\demo01.vbproj.GenerateResource.Cache
+C:\Users\max10\Desktop\Trabajo Final\demo01\demo01\obj\Debug\demo01.vbproj.CoreCompileInputs.cache
+C:\Users\max10\Desktop\Trabajo Final\demo01\demo01\obj\Debug\demo01.exe
+C:\Users\max10\Desktop\Trabajo Final\demo01\demo01\obj\Debug\demo01.xml
+C:\Users\max10\Desktop\Trabajo Final\demo01\demo01\obj\Debug\demo01.pdb
+C:\Users\DOCENTE\Desktop\Trabajo Final\demo01\demo01\bin\Debug\demo01.exe.config
+C:\Users\DOCENTE\Desktop\Trabajo Final\demo01\demo01\obj\Debug\demo01.exe
+C:\Users\DOCENTE\Desktop\Trabajo Final\demo01\demo01\obj\Debug\demo01.xml
+C:\Users\DOCENTE\Desktop\Trabajo Final\demo01\demo01\obj\Debug\demo01.pdb
+C:\Users\DOCENTE\Desktop\Trabajo Final\demo01\demo01\bin\Debug\demo01.exe
+C:\Users\DOCENTE\Desktop\Trabajo Final\demo01\demo01\bin\Debug\demo01.pdb
+C:\Users\DOCENTE\Desktop\Trabajo Final\demo01\demo01\bin\Debug\demo01.xml
+C:\Users\DOCENTE\Desktop\Trabajo Final\demo01\demo01\obj\Debug\demo01.vbprojResolveAssemblyReference.cache
+C:\Users\DOCENTE\Desktop\Trabajo Final\demo01\demo01\obj\Debug\demo01.Form1.resources
+C:\Users\DOCENTE\Desktop\Trabajo Final\demo01\demo01\obj\Debug\demo01.Resources.resources
+C:\Users\DOCENTE\Desktop\Trabajo Final\demo01\demo01\obj\Debug\demo01.vbproj.GenerateResource.Cache

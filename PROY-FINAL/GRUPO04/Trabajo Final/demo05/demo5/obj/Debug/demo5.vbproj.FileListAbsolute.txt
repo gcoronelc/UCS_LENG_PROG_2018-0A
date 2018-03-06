@@ -1,0 +1,37 @@
+F:\demo5\demo5\bin\Debug\demo5.exe.config
+F:\demo5\demo5\bin\Debug\demo5.exe
+F:\demo5\demo5\bin\Debug\demo5.pdb
+F:\demo5\demo5\bin\Debug\demo5.xml
+F:\demo5\demo5\obj\Debug\demo5.Form1.resources
+F:\demo5\demo5\obj\Debug\demo5.Resources.resources
+F:\demo5\demo5\obj\Debug\demo5.vbproj.GenerateResource.Cache
+F:\demo5\demo5\obj\Debug\demo5.exe
+F:\demo5\demo5\obj\Debug\demo5.xml
+F:\demo5\demo5\obj\Debug\demo5.pdb
+G:\Aplicaciones de Programacion\demo5\demo5\bin\Debug\demo5.exe.config
+G:\Aplicaciones de Programacion\demo5\demo5\obj\Debug\demo5.exe
+G:\Aplicaciones de Programacion\demo5\demo5\obj\Debug\demo5.xml
+G:\Aplicaciones de Programacion\demo5\demo5\obj\Debug\demo5.pdb
+C:\Users\max10\Desktop\Trabajo Final\demo05\demo5\bin\Debug\demo5.exe.config
+C:\Users\max10\Desktop\Trabajo Final\demo05\demo5\bin\Debug\demo5.exe
+C:\Users\max10\Desktop\Trabajo Final\demo05\demo5\bin\Debug\demo5.pdb
+C:\Users\max10\Desktop\Trabajo Final\demo05\demo5\bin\Debug\demo5.xml
+C:\Users\max10\Desktop\Trabajo Final\demo05\demo5\obj\Debug\demo5.vbprojResolveAssemblyReference.cache
+C:\Users\max10\Desktop\Trabajo Final\demo05\demo5\obj\Debug\demo5.Form1.resources
+C:\Users\max10\Desktop\Trabajo Final\demo05\demo5\obj\Debug\demo5.Resources.resources
+C:\Users\max10\Desktop\Trabajo Final\demo05\demo5\obj\Debug\demo5.vbproj.GenerateResource.Cache
+C:\Users\max10\Desktop\Trabajo Final\demo05\demo5\obj\Debug\demo5.vbproj.CoreCompileInputs.cache
+C:\Users\max10\Desktop\Trabajo Final\demo05\demo5\obj\Debug\demo5.exe
+C:\Users\max10\Desktop\Trabajo Final\demo05\demo5\obj\Debug\demo5.xml
+C:\Users\max10\Desktop\Trabajo Final\demo05\demo5\obj\Debug\demo5.pdb
+C:\Users\DOCENTE\Desktop\Trabajo Final\demo05\demo5\bin\Debug\demo5.exe.config
+C:\Users\DOCENTE\Desktop\Trabajo Final\demo05\demo5\bin\Debug\demo5.exe
+C:\Users\DOCENTE\Desktop\Trabajo Final\demo05\demo5\bin\Debug\demo5.pdb
+C:\Users\DOCENTE\Desktop\Trabajo Final\demo05\demo5\bin\Debug\demo5.xml
+C:\Users\DOCENTE\Desktop\Trabajo Final\demo05\demo5\obj\Debug\demo5.vbprojResolveAssemblyReference.cache
+C:\Users\DOCENTE\Desktop\Trabajo Final\demo05\demo5\obj\Debug\demo5.Form1.resources
+C:\Users\DOCENTE\Desktop\Trabajo Final\demo05\demo5\obj\Debug\demo5.Resources.resources
+C:\Users\DOCENTE\Desktop\Trabajo Final\demo05\demo5\obj\Debug\demo5.vbproj.GenerateResource.Cache
+C:\Users\DOCENTE\Desktop\Trabajo Final\demo05\demo5\obj\Debug\demo5.exe
+C:\Users\DOCENTE\Desktop\Trabajo Final\demo05\demo5\obj\Debug\demo5.xml
+C:\Users\DOCENTE\Desktop\Trabajo Final\demo05\demo5\obj\Debug\demo5.pdb
